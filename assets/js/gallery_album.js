@@ -22,7 +22,8 @@
 
 		            _this.lightGallery({
 		            	dynamic: true,
-		                dynamicEl: data
+		                dynamicEl: data,
+		                download: false
 		            });
 		    //         .on('onCloseAfter.lg', function(e){
 						// window.location.href = defaultURL;

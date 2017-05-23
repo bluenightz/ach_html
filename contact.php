@@ -33,23 +33,12 @@
                                     <button class="btn btn-default" data-toggle="modal" data-target="#imageMap"><i class="glyphicon glyphicon-eye-open"></i> ดูแผนที่</button>
                                     <button class="btn btn-default" data-toggle="modal" data-target="#googleMap"><i class="glyphicon glyphicon-globe"></i> ดู Google Map</button>
                                 </p>
-                                <div class="row mt-xs">
-                                    <div class="col-lg-12">
-                                        <ul class="list-inline list-social">
-                                            <li><a href=""><img src="assets/img/facebook.png" alt=""></a></li>
-                                            <li><a href=""><img src="assets/img/twitter.png" alt=""></a></li>
-                                            <li><a href=""><img src="assets/img/instagram.png" alt=""></a></li>
-                                            <li><a href=""><img src="assets/img/line.png" alt=""></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
                             </div>
-                            <div class="col-xs-12">
+                            
                                 <div class="content-head mt-lg">
-                                    สอบถามข้อสงสัย
+                                    สอบถาม / เสนอแนะข้อคิดเห็น
                                     <div class="content-head-desc">Contact Form</div>
                                 </div>
-                            </div>
                             <div class="col-xs-12 form-horizontal mt-sm">
                                 <div class="form-group">
                                     <lable class="control-label col-xs-3 text-right">หัวข้อ</lable>

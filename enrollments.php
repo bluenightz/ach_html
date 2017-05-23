@@ -22,6 +22,12 @@
                             </div>
                             <div class="col-xs-12 form-horizontal mt-sm">
                                 <div class="form-group">
+                                    <lable class="control-label col-xs-3 text-right">คอร์สที่จะอบรม</lable>
+                                    <div class="col-xs-6">
+                                        <input type="text" readonly class="form-control" value="#0001 คอร์สสอนทำอาหาร รุ่นที่ 37">
+                                    </div>
+                                </div>
+                                <div class="form-group">
                                     <lable class="control-label col-xs-3 text-right">ชื่อ</lable>
                                     <div class="col-xs-6">
                                         <input type="text" name="" id="" class="form-control">
@@ -70,25 +76,12 @@
                                     </div>
                                 </div>
                                 <div class="form-group">
-                                    <lable class="control-label col-xs-3 text-right">คอร์สที่จะอบรม</lable>
-                                    <div class="col-xs-6">
-                                        <select name="" id="" class="form-control">
-                                            <option value="">--เลือกคอร์สที่จะอบรม--</option>
-                                            <option value="">Course 0001</option>
-                                            <option value="">Course 0002</option>
-                                            <option value="">Course 0003</option>
-                                            <option value="">Course 0004</option>
-                                        </select>
-                                    </div>
-                                </div>
-                                <div class="form-group">
                                     <lable class="control-label col-xs-3 text-right">เลือกธนาคารที่โอนเข้า</lable>
                                     <div class="col-xs-6">
                                         <select name="" id="" class="form-control">
                                             <option value="">--เลือกธนาคาร--</option>
-                                            <option value="">ธนาคารกสิกรไทย</option>
-                                            <option value="">ธนาคารไทยพาณิชย์</option>
-                                            <option value="">ธนาคารกรุงเทพ</option>
+                                            <option value="">ธนาคารกสิกรไทย เลขที่บัญชี 074-2-68344-3</option>
+                                            <option value="">ธนาคารไทยพาณิชย์ เลขที่บัญชี 010-2-99842-6</option>
                                         </select>
                                     </div>
                                 </div>
@@ -111,7 +104,6 @@
                                 <ul>
                                     <li>ธนาคารกสิกรไทย  ลาดพร้าว 67 ออมทรัพย์   บจก. เอชานซ์    074-2-68344-3</li>
                                     <li>ธนาคารไทยพาณิชย์    ลาดพร้าว 59 ออมทรัพย์   บจก. เอชานซ์    010-2-99842-6</li>
-                                    <li>ธนาคารกรุงเทพ   โชคชัย 4 ลาดพร้าว   สะสมทรัพย์  บจก. เอชานซ์    230-0-68621-5</li>
                                 </ul>
                             </div>
 

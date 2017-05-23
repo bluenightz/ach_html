@@ -28,19 +28,17 @@
     <div class="container-fluid">
     <div class="row pre-footer">
         <div class="container">
-            <div class="col-md-6 col-lg-6 facebook-container">
-                <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fachancelearningbkk%2F%3Ffref%3Dts&tabs=timeline&width=500&height=200&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1600529800178535" width="500" height="200" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-            </div>
-            <div class="col-md-6 col-lg-6 footer-address">
+            
+            <div class="col-xs-12 col-md-8 col-md-offset-2 footer-address">
                 <div class="container-fluid">
-                    <div class="col-lg-3 img-fill-width footer-logo">
+                    <div class="col-xs-12 footer-logo text-center">
                         <img src="assets/img/logo-compress.png" alt="">
                     </div>
-                    <div class="col-lg-9">
+                    <div class="col-xs-12 text-center">
                         <strong class="color-primary">Copyright © 2017 Achance.co.th. All rights reserved</strong> <br>
-                        3/2 ซ.ลาดพร้าว 69 ถ.ลาดพร้าว แขวงสะพานสอง  <br>
+                        3/2 ซ.ลาดพร้าว 69 ถ.ลาดพร้าว แขวงสะพานสอง
                         เขตวังทองหลาง กรุงเทพฯ 10310 <br>
-                        โทร. 02-276-5260, มือถือ 08-9665-3599  <br>
+                        โทร. 02-276-5260, มือถือ 08-9665-3599
                         โทรสาร 02-933-0969 <br>
                         Email Address : info@achance.co.th, achancelearning@gmail.com  <br>
                         เวลาทำการ 9.00 - 17.00 น. หยุดทุกวันอังคาร
@@ -51,6 +49,7 @@
                                     <li><a href=""><img src="assets/img/twitter.png" alt=""></a></li>
                                     <li><a href=""><img src="assets/img/instagram.png" alt=""></a></li>
                                     <li><a href=""><img src="assets/img/line.png" alt=""></a></li>
+                                    <li><a href=""><img src="assets/img/email.png" alt=""></a></li>
                                 </ul>
                             </div>
                         </div>

@@ -21,7 +21,7 @@
                         <a href="course.php">COURSE</a>
                     </li>
                     <li class="nav-item">
-                        <a href="enrollments.php">ENROLLMENTS</a>
+                        <a href="knowledge.php">KNOWLEDGE</a>
                     </li>
                     <li class="nav-item">
                         <a href="faq.php">FAQ</a>

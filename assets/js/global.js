@@ -1,5 +1,41 @@
 $(function(){
 
+    // main slide
+    $('.mainslide').owlCarousel({
+        center:true,
+        loop:true,
+        margin:1,
+        autoplay:true,
+        nav:true,
+        dots:false,
+        stagePadding: 25,
+        navText: [ '<i class="arrow-left"></i>', '<i class="arrow-right"></i>' ],
+        responsive:{
+            0:{
+                items:1
+            },
+            1200:{
+                items:1,
+                stagePadding:100
+            },
+            1400:{
+                items:1,
+                stagePadding:150
+            },
+            1600:{
+                items:1,
+                stagePadding:350
+            }
+        },
+        onResized: positionNav,
+        onInitialized: positionNav
+    });
+
+    function positionNav( opt ){
+        var h = $(".mainslide .item").height() / 2;
+        $(".mainslide .owl-prev, .mainslide .owl-next").css("top", "-" + h + "px");
+    }
+
 	// home gallery script
     $('.home-gallery').owlCarousel({
         loop:true,
@@ -18,6 +54,7 @@ $(function(){
             }
         }
     });
+
 
 
     $("#googleMap").on("shown.bs.modal", function(e){
