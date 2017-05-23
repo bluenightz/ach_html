@@ -20,7 +20,7 @@
                                 ติดต่อเรา
                                 <div class="content-head-desc">Contact Us</div>
                             </div>
-                            <div class="col-xs-12">
+                            <div class="col-xs-12 mb-sm">
                                 <p>
                                     3/2 ซ.ลาดพร้าว 69 ถ.ลาดพร้าว แขวงสะพานสอง  <br>
                                     เขตวังทองหลาง กรุงเทพฯ 10310 <br>
@@ -35,7 +35,7 @@
                                 </p>
                             </div>
                             
-                                <div class="content-head mt-lg">
+                                <div class="content-head ">
                                     สอบถาม / เสนอแนะข้อคิดเห็น
                                     <div class="content-head-desc">Contact Form</div>
                                 </div>
