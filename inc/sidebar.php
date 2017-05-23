@@ -8,18 +8,24 @@
 
                         <div class="col-md-12 content-box">
                             <div class="content-head">
-                                คอร์สล่าสุด
-                                <div class="content-head-desc">Latest Course</div>
+                                ประชาสัมพันธ์
+                                <div class="content-head-desc">Information</div>
                             </div>
                             <div class="content-body">
-                                หลากหลายคอร์สแนะนำล่าสุด เทรนด์ไหนดีเทรนด์ไหนกำลังมา เลือกได้จากที่นี่ที่เดียว
+                                <img src="assets/img/img-test.png" class="mb-sm img-border-bottom" alt=""> 
+                                <p>
+                                ผู้ร่วมอบรมในคอร์ส การทำอาหาร รุ่นที่ 37 กำลังตั้งใจฟังวิทยากรกันอย่างตั้งใจ ซึ่งคอร์สนี้ได้รับเกียริตจาก คุณ ฉัตรชัย เชฟจากโรงแรมชื่อดัง...
+                                </p>
+                                <p>
+                                ผู้ร่วมอบรมในคอร์ส การทำอาหาร รุ่นที่ 37 กำลังตั้งใจฟังวิทยากรกันอย่างตั้งใจ ซึ่งคอร์สนี้ได้รับเกียริตจาก คุณ ฉัตรชัย เชฟจากโรงแรมชื่อดัง...
+                                </p>
                             </div>
-                            <a href="" class="content-readmore"><i class="fa fa-bars"></i> ดูคอร์สทั้งหมด</a>
+                            <!-- <a href="" class="content-readmore"><i class="fa fa-bars"></i> ดูคอร์สทั้งหมด</a> -->
                         </div>
                         <div class="col-md-12 content-box">
                             <div class="content-head">
-                                ประชาสัมพันธ์
-                                <div class="content-head-desc">Information</div>
+                                ติดต่อเรา
+                                <div class="content-head-desc">Contact Us</div>
                             </div>
                             <div class="content-body">
                                 3/2 ซ.ลาดพร้าว 69 ถ.ลาดพร้าว แขวงสะพานสอง <br>
